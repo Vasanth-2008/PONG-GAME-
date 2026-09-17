@@ -48,7 +48,7 @@ A single-screen Android app, built with **MIT App Inventor**, that recreates the
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot_2026-09-17-10-51-05-87_18f8b9630f4cd5e745ae66563ab6d3e6.jpg)
 
 *The blocks editor showing the Pong game's ball movement, bounce, scoring, and paddle drag logic.*
 
